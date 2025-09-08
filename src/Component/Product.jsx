@@ -10,7 +10,7 @@ function Product() {
 
   useEffect(() => {
     axios
-      .get("https://localhost:3000/eyeglasses") // your API
+      .get("https://lenskart-3-h78p.onrender.com") // your API
       .then((res) => setProducts(res.data))
       .catch((err) => console.log(err));
   }, []);
