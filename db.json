@@ -1,0 +1,28 @@
+{
+  "eyeglasses": [
+    {
+      "id": 1,
+      "title": "Eyeglass 1",
+      "description": "Trendy eyeglass for modern look",
+      "image": "https://static1.lenskart.com/media/desktop/img/Sep21/image179.png"
+    },
+    {
+      "id": 2,
+      "title": "Eyeglass 2",
+      "description": "Stylish eyeglass for comfort",
+      "image": "https://static1.lenskart.com/media/desktop/img/Sep21/cateeye.jpg"
+    },
+    {
+      "id": 3,
+      "title": "Eyeglass 3",
+      "description": "Perfect pair for office & casual",
+      "image": "https://static1.lenskart.com/media/desktop/img/Sep21/clubmaster.jpg"
+    },
+    {
+      "id": 4,
+      "title": "Eyeglass 4",
+      "description": "Lightweight & durable frame",
+      "image": "https://static1.lenskart.com/media/desktop/img/Sep21/trans.jpg"
+    }
+  ]
+}
