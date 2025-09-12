@@ -1,0 +1,19 @@
+.section1 {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin: 20px 0;
+}
+
+.line {
+  flex: 1;
+  height: 1px;
+  background-color: #ccc;
+  margin: 0 10px;
+}
+
+.text {
+  font-weight: bold;
+  color: #333;
+  white-space: nowrap;
+}
